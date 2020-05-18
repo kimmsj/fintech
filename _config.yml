@@ -28,7 +28,7 @@ url: "https://kimmsj.github.io"
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: 
+baseurl: ""
   
 show_downloads: true
 remote_theme: jekyll-theme-slate
