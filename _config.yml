@@ -32,3 +32,5 @@ baseurl: ""
   
 show_downloads: true
 remote_theme: jekyll-theme-slate
+
+theme: jekyll-theme-minimal
